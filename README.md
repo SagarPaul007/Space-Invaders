@@ -1,2 +1,2 @@
 # Space-Invaders
-pygame
+This game is made using pygame
